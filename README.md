@@ -15,24 +15,24 @@
 
 
 In this project 20 tech related stocks are investigated. These stocks are:
-Nvidia – NVDA
-Apple – AAPL
-Microsoft – MSFT
-Google – GOOGL
-Amazon – AMZN
-Tesla – TSLA
-AMD – AMD
-Intel – INTC
-Qualcomm – QCOM
-IBM – IBM
-Oracle – ORCL
-Salesforce – CRM
-Adobe – ADBE
-ServiceNow – NOW
-Uber – UBER
-HP – HPQ
-Electronic Arts – EA
-Cisco – CSCO
-Cloudflare – NET
-Analog Devices – ADI
+- Nvidia – NVDA
+- Apple – AAPL
+- Microsoft – MSFT
+- Google – GOOGL
+- Amazon – AMZN
+- Tesla – TSLA
+- AMD – AMD
+- Intel – INTC
+- Qualcomm – QCOM
+- IBM – IBM
+- Oracle – ORCL
+- Salesforce – CRM
+- Adobe – ADBE
+- ServiceNow – NOW
+- Uber – UBER
+- HP – HPQ
+- Electronic Arts – EA
+- Cisco – CSCO
+- Cloudflare – NET
+- Analog Devices – ADI
 
