@@ -1,3 +1,4 @@
 dataset/
 .stock_price
 *.pkl
+*.keras
